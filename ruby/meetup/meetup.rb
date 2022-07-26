@@ -5,8 +5,7 @@ Write your code for the 'Meetup' exercise in this file. Make the tests in
 To get started with TDD, see the `README.md` file in your
 `ruby/meetup` directory.
 =end
-require 'Date'
-require 'Time'
+require 'date'
 
 class Meetup
     def initialize(month, year)
